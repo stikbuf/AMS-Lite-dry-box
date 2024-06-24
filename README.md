@@ -1,4 +1,6 @@
 ## AMS Lite简易封箱的3D模型文件
+![效果图1](https://github.com/stikbuf/AMS-Lite-dry-box/blob/main/%E6%88%90%E5%93%81.jpg?raw=true)
+
 打印配置见 [MakerWorld](https://makerworld.com/zh/models/483094)
 
 AMS Lite的简易封箱，可用A1 Mini打印，成本约70元\
